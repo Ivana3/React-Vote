@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Vote/static/css/main.13c2163e.chunk.css",
+    "main.js": "/React-Vote/static/js/main.9740dad5.chunk.js",
+    "main.js.map": "/React-Vote/static/js/main.9740dad5.chunk.js.map",
+    "runtime-main.js": "/React-Vote/static/js/runtime-main.76c8596c.js",
+    "runtime-main.js.map": "/React-Vote/static/js/runtime-main.76c8596c.js.map",
+    "static/js/2.b782c7b4.chunk.js": "/React-Vote/static/js/2.b782c7b4.chunk.js",
+    "static/js/2.b782c7b4.chunk.js.map": "/React-Vote/static/js/2.b782c7b4.chunk.js.map",
+    "index.html": "/React-Vote/index.html",
+    "precache-manifest.0943fb221b27c44cbbb2ba2d7c135723.js": "/React-Vote/precache-manifest.0943fb221b27c44cbbb2ba2d7c135723.js",
+    "service-worker.js": "/React-Vote/service-worker.js",
+    "static/css/main.13c2163e.chunk.css.map": "/React-Vote/static/css/main.13c2163e.chunk.css.map",
+    "static/js/2.b782c7b4.chunk.js.LICENSE.txt": "/React-Vote/static/js/2.b782c7b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c8596c.js",
+    "static/js/2.b782c7b4.chunk.js",
+    "static/css/main.13c2163e.chunk.css",
+    "static/js/main.9740dad5.chunk.js"
+  ]
+}
